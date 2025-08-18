@@ -19,8 +19,19 @@
 
 ### Решение 1
 
-![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/first.png)
-![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/1.png)
-![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/2.png)
-![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/3.png)
-![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/4.png)
+	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/first.png)
+	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/1.png)
+	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/2.png)
+	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/3.png)
+	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/4.png)
+
+### Задание 2
+
+* 1.Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
+* 2.Добавьте файл .gitignore в следующий коммит git add....
+* 3.Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
+* 4.Сделайте коммит и пуш.
+
+### Решение 2
+
+
