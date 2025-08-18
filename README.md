@@ -34,4 +34,5 @@
 
 ### Решение 2
 
+[Ссылка](https://github.com/Sayward-k8/my-repo-github/commit/46386d3d1567a0a5adc1493fe1ba9e5f4eac57dc)
 
