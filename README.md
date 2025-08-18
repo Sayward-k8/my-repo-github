@@ -1,3 +1,3 @@
 # my-repo-github
-# master
+# main, First commit
 Выполнил git config 
