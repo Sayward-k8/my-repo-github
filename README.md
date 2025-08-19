@@ -25,6 +25,8 @@
 	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/3.png)
 	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/4.png)
 
+[Ссылка](https://github.com/Sayward-k8/my-repo-github/commit/2cc9e887b7fcf796a9d25b81451cf901ea0b6e8b)
+
 ### Задание 2
 
 * 1.Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
