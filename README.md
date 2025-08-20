@@ -66,6 +66,8 @@
 	
 Cсылка на граф коммитов
 [Ссылка](https://github.com/Sayward-k8/my-repo-github/network)
+
+Скриншот
 ![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/graph.png)
 
 </details>
@@ -84,7 +86,7 @@ Cсылка на граф коммитов
 ### Решение 4
 
 <details>
-
+Cсылка на граф коммитов
 [Ссылка](https://github.com/Sayward-k8/my-repo-github/network)
 
 </details>
