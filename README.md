@@ -41,6 +41,7 @@
 ### Решение 2
 
 <details>
+	
 Ссылка на коммит
 [Ссылка](https://github.com/Sayward-k8/my-repo-github/commit/46386d3d1567a0a5adc1493fe1ba9e5f4eac57dc)
 
@@ -58,6 +59,9 @@
 	8. Не удаляйте ветку dev.
 
 ### Решение 3
+
 <details>
+	
 ![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/graph.png)
+
 <details>
