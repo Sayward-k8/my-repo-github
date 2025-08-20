@@ -83,7 +83,7 @@
 ### Решение 4
 
 <details>
-Cсылка на граф коммитов
-[Ссылка](https://github.com/Sayward-k8/my-repo-github/network)
+
+[Ссылка на граф коммитов](https://github.com/Sayward-k8/my-repo-github/network)
 
 </details>
