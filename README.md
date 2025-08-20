@@ -16,9 +16,9 @@
 	 12. Теперь можно сделать коммит git commit -m 'First commit'.
 	 13. Сделайте git push origin master.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+### Решение 1
 
 <details>
-<summary> ### Решение 1 <summary>
 
 ![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/first.png)
 ![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/1.png)
@@ -30,6 +30,7 @@
 [Ссылка](https://github.com/Sayward-k8/my-repo-github/commit/2cc9e887b7fcf796a9d25b81451cf901ea0b6e8b)
 
 </details>
+
 ### Задание 2
 
 	1. Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
