@@ -19,11 +19,11 @@
 
 ### Решение 1
 
-	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/first.png)
-	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/1.png)
-	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/2.png)
-	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/3.png)
-	![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/4.png)
+![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/first.png)
+![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/1.png)
+![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/2.png)
+![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/3.png)
+![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/4.png)
 
 [Ссылка](https://github.com/Sayward-k8/my-repo-github/commit/2cc9e887b7fcf796a9d25b81451cf901ea0b6e8b)
 
@@ -52,4 +52,4 @@
 
 ### Решение 3
 
-![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/4.png)
+![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/graph.png)
