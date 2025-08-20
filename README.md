@@ -51,3 +51,5 @@
 * 8. Не удаляйте ветку dev.
 
 ### Решение 3
+
+![alt text](https://github.com/Sayward-k8/my-repo-github/blob/53b9a201a483cb465d83317befc3cf0ceb7368eb/img/4.png)
