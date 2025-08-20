@@ -45,7 +45,7 @@
 Ссылка на коммит
 [Ссылка](https://github.com/Sayward-k8/my-repo-github/commit/46386d3d1567a0a5adc1493fe1ba9e5f4eac57dc)
 
-<details>
+</details>
 
 ### Задание 3
 
@@ -64,4 +64,4 @@
 	
 ![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/graph.png)
 
-<details>
+</details>
