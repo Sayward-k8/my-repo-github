@@ -26,8 +26,7 @@
 ![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/3.png)
 ![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/4.png)
 
-Ссылка на коммит
-[Ссылка](https://github.com/Sayward-k8/my-repo-github/commit/2cc9e887b7fcf796a9d25b81451cf901ea0b6e8b)
+[Ссылка на коммит](https://github.com/Sayward-k8/my-repo-github/commit/2cc9e887b7fcf796a9d25b81451cf901ea0b6e8b)
 
 </details>
 
@@ -43,8 +42,7 @@
 
 <details>
 	
-Ссылка на коммит
-[Ссылка](https://github.com/Sayward-k8/my-repo-github/commit/46386d3d1567a0a5adc1493fe1ba9e5f4eac57dc)
+[Ссылка на коммит](https://github.com/Sayward-k8/my-repo-github/commit/46386d3d1567a0a5adc1493fe1ba9e5f4eac57dc)
 
 </details>
 
@@ -63,9 +61,8 @@
 ### Решение 3
 
 <details>
-	
-Cсылка на граф коммитов
-[Ссылка](https://github.com/Sayward-k8/my-repo-github/network)
+
+[Ссылка на граф коммитов](https://github.com/Sayward-k8/my-repo-github/network)
 
 Скриншот
 ![alt text](https://github.com/Sayward-k8/my-repo-github/blob/main/img/graph.png)
